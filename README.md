@@ -1,6 +1,26 @@
 ## Hi there 👋 Lakshan here !!!
 # 💫 About Me:
-#include <iostream><br>#include <vector><br>#include <string><br><br>using namespace std;<br><br>int main() {<br>    int age = 20;<br>    string university = "SRM University, KTR";<br>    string major = "Electronics and Computer Engineering";<br>    vector<string> interests = {"Python", "AI/ML", "Cloud Computing"};<br>    vector<string> skills = {"Kubernetes", "AWS", "Problem Solving"};<br><br>    cout << "Age: " << age << endl;<br>    cout << "University: " << university << endl;<br>    cout << "Major: " << major << endl;<br><br>    cout << "Interests: ";<br>    for (size_t i = 0; i < interests.size(); i++) {<br>        cout << interests[i];<br>        if (i != interests.size() - 1) cout << ", ";<br>    }<br>    cout << endl;<br><br>    cout << "Skills: ";<br>    for (size_t i = 0; i < skills.size(); i++) {<br>        cout << skills[i];<br>        if (i != skills.size() - 1) cout << ", ";<br>    }<br>    cout << endl;<br><br>    return 0;<br>}<br>
+package main
+
+import (
+	"fmt"
+	"strings"
+)
+
+func main() {
+	age := 19
+	university := "SRM University, KTR"
+	major := "Electronics and Computer Engineering"
+	interests := []string{"Python", "AI/ML", "Cloud Computing"}
+	skills := []string{"Kubernetes", "AWS", "Problem Solving"}
+
+	fmt.Printf("Age: %d\n", age)
+	fmt.Printf("University: %s\n", university)
+	fmt.Printf("Major: %s\n", major)
+	fmt.Printf("Interests: %s\n", strings.Join(interests, ", "))
+	fmt.Printf("Skills: %s\n", strings.Join(skills, ", "))
+}
+
 
 
 # 💻 Tech Stack:
