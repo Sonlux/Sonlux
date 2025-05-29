@@ -1,25 +1,20 @@
 ## Hi there 👋 Lakshan here !!!
 # 💫 About Me:
-package main
+## About Me
 
-import (
-	"fmt"
-	"strings"
-)
+- **Age:** 20  
+- **University:** SRM University, KTR  
+- **Major:** Electronics and Computer Engineering  
 
-func main() {
-	age := 19
-	university := "SRM University, KTR"
-	major := "Electronics and Computer Engineering"
-	interests := []string{"Python", "AI/ML", "Cloud Computing"}
-	skills := []string{"Kubernetes", "AWS", "Problem Solving"}
+- **Interests:**  
+  - Python  
+  - AI/ML  
+  - Cloud Computing  
 
-	fmt.Printf("Age: %d\n", age)
-	fmt.Printf("University: %s\n", university)
-	fmt.Printf("Major: %s\n", major)
-	fmt.Printf("Interests: %s\n", strings.Join(interests, ", "))
-	fmt.Printf("Skills: %s\n", strings.Join(skills, ", "))
-}
+- **Skills:**  
+  - Kubernetes  
+  - AWS  
+  - Problem Solving  
 
 
 
