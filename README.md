@@ -1,21 +1,6 @@
 ## Hi there 👋 Lakshan here !!!
 # 💫 About Me:
-## About Me
-
-- **Age:** 20  
-- **University:** SRM University, KTR  
-- **Major:** Electronics and Computer Engineering  
-
-- **Interests:**  
-  - Python  
-  - AI/ML  
-  - Cloud Computing  
-
-- **Skills:**  
-  - Kubernetes  
-  - AWS  
-  - Problem Solving  
-
+JILLL GUYYY
 
 
 # 💻 Tech Stack:
