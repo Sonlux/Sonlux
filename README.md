@@ -2,7 +2,7 @@
 # 💫 About Me:
 JILLL GUYYY
 
-https://portfolio-tau-eosin-54.vercel.app/
+https://lakshanportfolio.vercel.app
 
 
 # 💻 Tech Stack:
