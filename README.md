@@ -2,7 +2,7 @@
 # 💫 About Me:
 JILLL GUYYY
 
-https://lakshanportfolio.vercel.app
+https://luxport.vercel.app
 
 
 # 💻 Tech Stack:
