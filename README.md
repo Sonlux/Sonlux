@@ -1,4 +1,3 @@
-# 💫 About Me:
 JILLL GUYYY
 
 # 💻 Tech Stack:
