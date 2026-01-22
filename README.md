@@ -1,6 +1,61 @@
-# 💫 About Me:
-# Hey, I'm Lakshan<br><br>Backend dev who builds AI systems that don't fall apart in production.<br><br>## What I Do<br><br>Making RAG pipelines actually work. Building observability tools for AI agents because "it works on my machine" isn't good enough. Occasionally teaching IoT networks to understand plain English instead of making you memorize iptables commands.<br><br>**Recent stuff:**<br>- **ESCAI**—tracks what AI agents are thinking in real-time (yes, really)<br>- **Imperium**—IoT network management via natural language because life's too short for tc rules. Sub-500ms policy enforcement on a Raspberry Pi<br>- **KubeScape**—K8s anomaly detection so you stop getting paged at 3 AM for OOM errors<br>- Production RAG systems with 60% lower latency (the boring but necessary work)<br><br>## Stack<br><br>Python, LangChain, FastAPI, Kubernetes, Prometheus. MQTT and iptables when IoT decides to be difficult.<br><br>## Currently<br><br>Figuring out how to make distributed AI systems less of a debugging nightmare.<br><br>📫 lakshanammineni@gmail.com
+# Lakshan.init()
+```python
+class BackendDev:
+    def __init__(self):
+        self.focus = ["AI Systems", "Production Infrastructure"]
+        self.status = "Building things that don't break at 3 AM"
+        
+    def current_work(self):
+        return {
+            "rag_pipelines": "Making retrieval actually work",
+            "agent_observability": "Tracking what AI agents think (yes, really)",
+            "iot_orchestration": "Teaching networks to understand English"
+        }
+```
 
+## Recent Builds
+```bash
+$ git log --oneline --recent
+
+e4a9c12  ESCAI: Real-time cognitive monitoring for AI agents
+7b3f581  Imperium: Natural language IoT network control (sub-500ms on RPi)
+2d8e394  KubeScape: K8s anomaly detection (70% less manual ops)
+9a1c6f0  Production RAG: 60% latency reduction at scale
+```
+
+## Tech Stack
+```javascript
+const stack = {
+    languages: ["Python", "C/C++", "SQL"],
+    ai_ml: ["LangChain", "FastAPI", "TensorFlow", "pgvector"],
+    infrastructure: ["Kubernetes", "Docker", "Prometheus", "Grafana"],
+    iot: ["MQTT", "iptables", "tc"],
+    databases: ["PostgreSQL", "Supabase", "ChromaDB"]
+};
+```
+
+## Current Quest
+```sql
+SELECT * FROM challenges 
+WHERE topic = 'distributed_systems' 
+AND goal = 'less_debugging_nightmares'
+ORDER BY priority DESC;
+```
+
+## Connect
+```json
+{
+    "email": "lakshanammineni@gmail.com",
+    "linkedin": "your-linkedin-url",
+    "status": "open_to_collaborate"
+}
+```
+
+---
+```python
+if __name__ == "__main__":
+    print("Building reliable AI systems, one commit at a time")
+```
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
