@@ -46,7 +46,7 @@ ORDER BY priority DESC;
 ```json
 {
     "email": "lakshanammineni@gmail.com",
-    "linkedin": "your-linkedin-url",
+    "linkedin": "https://www.linkedin.com/in/lakshan2810/",
     "status": "open_to_collaborate"
 }
 ```
