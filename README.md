@@ -13,26 +13,6 @@ class BackendDev:
         }
 ```
 
-## Recent Builds
-```bash
-$ git log --oneline --recent
-
-e4a9c12  ESCAI: Real-time cognitive monitoring for AI agents
-7b3f581  Imperium: Natural language IoT network control (sub-500ms on RPi)
-2d8e394  KubeScape: K8s anomaly detection (70% less manual ops)
-9a1c6f0  Production RAG: 60% latency reduction at scale
-```
-
-## Tech Stack
-```javascript
-const stack = {
-    languages: ["Python", "C/C++", "SQL"],
-    ai_ml: ["LangChain", "FastAPI", "TensorFlow", "pgvector"],
-    infrastructure: ["Kubernetes", "Docker", "Prometheus", "Grafana"],
-    iot: ["MQTT", "iptables", "tc"],
-    databases: ["PostgreSQL", "Supabase", "ChromaDB"]
-};
-```
 
 ## Current Quest
 ```sql
@@ -42,21 +22,55 @@ AND goal = 'less_debugging_nightmares'
 ORDER BY priority DESC;
 ```
 
-## Connect
-```json
-{
-    "email": "lakshanammineni@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/lakshan2810/",
-    "status": "open_to_collaborate"
-}
-```
+###
 
----
-```python
-if __name__ == "__main__":
-    print("Building reliable AI systems, one commit at a time")
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="60" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sonlux&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonlux/Sonlux/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonlux/Sonlux/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sonlux/Sonlux/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sonlux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sonlux&theme=dark&hide_border=false)<br/>
