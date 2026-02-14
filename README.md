@@ -52,12 +52,3 @@ ORDER BY priority DESC;
   <img src="https://streak-stats.demolab.com?user=Sonlux&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sonlux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sonlux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonlux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
