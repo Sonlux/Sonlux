@@ -1,4 +1,4 @@
-## Lakshan.init()
+## lux.init()
 ```python
 class BackendDev:
     def __init__(self):
